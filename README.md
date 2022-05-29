@@ -1,5 +1,10 @@
 # ProjetoTodo
 
+Projeto desenvolvido para aprimorar habilidades e conhecimento com o framework angular, utilizando angular material.
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
